@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site" : "taiwanmap-react-testt",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -13,5 +13,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_TAIWANMAP_29DD8 }}'
-          projectId: taiwanmap-29dd8
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_TAIWANMAP_REACT_TESTT }}'
+          projectId: taiwanmap-react-testt
