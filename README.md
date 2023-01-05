@@ -1,4 +1,2 @@
-第一天：
-    架設環境
-第二天：
-    研究 Header, Content, Footer
+練習使用 React 運用政府公開平台 API 建立一個觀看當前氣象的網站
+Demo：https://taiwanmap-react-testt.web.app/
